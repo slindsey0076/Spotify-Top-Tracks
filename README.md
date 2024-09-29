@@ -66,7 +66,7 @@ python spotify_top_tracks.py
 
 ### Example:
 
-![Spotify Artist Top Tracks GUI](screenshot.png)
+![Spotify Artist Top Tracks GUI](<img width="563" alt="Screenshot 2024-09-28 at 8 22 00 PM" src="https://github.com/user-attachments/assets/ff98366c-f060-41e5-8ca8-97fb1e08f150">)
 
 ## Notes
 

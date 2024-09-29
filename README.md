@@ -64,9 +64,6 @@ python spotify_top_tracks.py
 - The top 10 tracks will be displayed with links to the audio previews (if available).
 - Album artwork will also be displayed in a grid format.
 
-### Example:
-
-![Spotify Artist Top Tracks GUI](<img width="563" alt="Screenshot 2024-09-28 at 8 22 00 PM" src="https://github.com/user-attachments/assets/ff98366c-f060-41e5-8ca8-97fb1e08f150">)
 
 ## Notes
 
@@ -78,7 +75,3 @@ python spotify_top_tracks.py
 - Search suggestions as you type the artist's name.
 - Track statistics, including popularity and release date information.
 - Multilingual support for artist names and track information.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
